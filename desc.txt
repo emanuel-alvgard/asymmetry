@@ -1,10 +1,10 @@
 # Side panel with most basic complex types
 # When creating an object it's default state is empty
-# The user can then create as many properties as needed of the primitive types string, number or ref
-# Refs can be to other objects (of any type) or one of it's properties
+# The user can then create as many properties as needed of the primitive types string, number, object or reference
+# References can be to other objects (of any type) or one of it's properties
 # Both strings and numbers can interpolate object properties.
 # All views have 2 contextual searchbars which can search by "key" or "value"
-# When creating a ref property either "existing" or "new" can be chosen
-# If "new" is chosen the new object can either be blank or use another object as a template.
+# When creating an object property the new object can either be blank or use another object as a template.
+# all properties and objects can be moved anywhere
 
-# The structure can be viewd in different modes like "list" (default), graph or kanban.
+# The structure can be viewed in different modes like "list" (default), graph or kanban.
