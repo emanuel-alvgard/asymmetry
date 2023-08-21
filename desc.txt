@@ -7,4 +7,4 @@
 # When creating an object property the new object can either be blank or use another object as a template.
 # all properties and objects can be moved anywhere
 
-# The structure can be viewed in different modes like "list" (default), graph or kanban.
+# The structure can be viewed in different modes like "object" (default), JSON, graph or kanban.
